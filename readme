@@ -1,0 +1,14 @@
+Este projeto consiste em um programa que verifica se um número é par ou ímpar. O usuário insere um número, e o programa retorna uma mensagem informando se ele é par ou ímpar.
+
+Funcionalidades
+
+Recebe um número como entrada.
+
+Verifica se o número é par ou ímpar.
+
+Exibe a mensagem correspondente ao resultado.
+
+Tecnologias Utilizadas
+
+JavaScript (ou outra linguagem, conforme o código no repositório).
+este trabalho esta na licença mit
