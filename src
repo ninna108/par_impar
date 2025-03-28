@@ -1,0 +1,17 @@
+public class Par_Impar
+{
+    int numero;
+    public void checar(int n)
+    {
+        numero = n;
+        
+        if(numero%2==0)
+        {
+            System.out.println("o numero "+ numero + "é par");
+        }
+          else 
+          {
+              System.out.println("o numero " + numero + "é impar" );
+          }
+    }
+}
